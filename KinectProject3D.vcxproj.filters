@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sensor.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLApp.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="shaderClass.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="VBO.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="VAO.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="EBO.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\stb\stb_image.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="ComplexModel.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Skeleton.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\stdafx.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\alglibinternal.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\alglibmisc.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\ap.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\dataanalysis.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\diffequations.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\fasttransforms.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\integration.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\interpolation.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\linalg.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\optimization.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\solvers.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\specialfunctions.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="external libraries\AlgLib\statistics.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Sensor.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGLApp.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderClass.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="VBO.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="VAO.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="EBO.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="ComplexModel.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Skeleton.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\alglibinternal.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\alglibmisc.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\ap.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\dataanalysis.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\diffequations.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\fasttransforms.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\integration.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\interpolation.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\linalg.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\optimization.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\solvers.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\specialfunctions.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="external libraries\AlgLib\statistics.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Origine.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resources\Shader\DefaultVertexShader.vert" />
+    <Text Include="Resources\Shader\light.frag" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shader\DefaultFragShader.frag" />
+    <None Include="Resources\Shader\light.vert" />
+    <None Include="Resources\Shader\SkeletonAlignModel.vert" />
+    <None Include="Resources\Shader\SkeletonAlignShader.frag" />
+    <None Include="Resources\Shader\NoTextureShader.vert" />
+    <None Include="Resources\Shader\NoTextureShader.frag" />
+  </ItemGroup>
+</Project>
