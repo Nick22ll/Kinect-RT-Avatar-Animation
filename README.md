@@ -17,3 +17,7 @@ With Visual Studio:
 ## How to Use:
 The main.cpp file is used only to initialize and execute istances of OpenGLApp.h; this class is the core of our program.\
 OpenGLApp generates a window and renders the scene; if you want change the scene or the type of rendered avatar you must chage the OpenGLApp::Run method.
+
+
+## How it Works:
+* https://docs.google.com/presentation/d/1gHAhKpc4EPUda_ZjPz3-d_buGeAP2o5-/edit?usp=sharing&ouid=118037113654244199332&rtpof=true&sd=true
